@@ -37,9 +37,9 @@
 
 🔭 Currently working on **[Automation](https://github.com/chaitanyabysani/Automation)**
 
-🌱 Currently learning **AI/ML, Playwright, Selenium Webdriver, TOSCA**
+🌱 Currently learning **AI/ML, Playwright**
 
-💬 Ask me about **Functional Testing, API, Test Automation, Selenium, Playwright**
+💬 Ask me about **Functional Testing, API, Test Automation, Playwright**
 
 🎓 Certifications: **AS1, AS2 in TOSCA**
 
@@ -134,97 +134,6 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="30" height="30" /> Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/chaitanyabysani/Automation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=chaitanyabysani&repo=Automation&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Automation"/></a>
-<a href="https://github.com/chaitanyabysani/chaitanyabysani"><img src="https://github-readme-stats.vercel.app/api/pin/?username=chaitanyabysani&repo=chaitanyabysani&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="chaitanyabysani"/></a>
-<a href="https://github.com/chaitanyabysani/mygitrepo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=chaitanyabysani&repo=mygitrepo&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="mygitrepo"/></a>
-<a href="https://github.com/chaitanyabysani/PageObject"><img src="https://github-readme-stats.vercel.app/api/pin/?username=chaitanyabysani&repo=PageObject&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="PageObject"/></a>
-<a href="https://github.com/chaitanyabysani/Java"><img src="https://github-readme-stats.vercel.app/api/pin/?username=chaitanyabysani&repo=Java&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Java"/></a>
-
-</div>
-
-### 📊 Top Repositories
-
-<table>
-<thead>
-<tr>
-<th>🚀 Project</th>
-<th>📝 Description</th>
-<th>⭐ Stars</th>
-<th>🍴 Forks</th>
-<th>💻 Language</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><a href="https://github.com/chaitanyabysani/Automation"><b>Automation</b></a></td>
-<td>No description</td>
-<td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
-<td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
-<td><img src="https://img.shields.io/badge/Java-gray?style=flat-square" alt="language"/></td>
-</tr>
-<tr>
-<td><a href="https://github.com/chaitanyabysani/chaitanyabysani"><b>chaitanyabysani</b></a></td>
-<td>Config files for my GitHub profile.</td>
-<td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
-<td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
-<td><img src="https://img.shields.io/badge/N%2FA-gray?style=flat-square" alt="language"/></td>
-</tr>
-<tr>
-<td><a href="https://github.com/chaitanyabysani/mygitrepo"><b>mygitrepo</b></a></td>
-<td>No description</td>
-<td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
-<td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
-<td><img src="https://img.shields.io/badge/Java-gray?style=flat-square" alt="language"/></td>
-</tr>
-<tr>
-<td><a href="https://github.com/chaitanyabysani/PageObject"><b>PageObject</b></a></td>
-<td>No description</td>
-<td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
-<td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
-<td><img src="https://img.shields.io/badge/Java-gray?style=flat-square" alt="language"/></td>
-</tr>
-<tr>
-<td><a href="https://github.com/chaitanyabysani/Java"><b>Java</b></a></td>
-<td>Java Basics</td>
-<td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
-<td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
-<td><img src="https://img.shields.io/badge/HTML-gray?style=flat-square" alt="language"/></td>
-</tr>
-</tbody>
-</table>
-
-<p align="center">
-  <i>💡 Total of <b>5</b> repositories</i>
-</p>
-
-
----
-
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="30" height="30" /> Achievements
-
-<div align="center">
-
-| 🏆 Achievement | 📊 Status |
-|:-------------:|:---------:|
-| 🎂 5+ Years on GitHub | ✅ Unlocked |
-| 💻 Java Expert | ✅ Unlocked |
-
-</div>
-
----
-
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Profile Summary
-
-<div align="center">
-
-<table>
-<tr>
 
 
 <td align="center">
